@@ -1,0 +1,244 @@
+body{ 
+    width: 100%;
+    height: 100%;
+    background-color: beige;
+    margin: 0; padding: 0;
+}
+
+h1 { 
+    font-size: 2em;
+        color: darkred;
+        margin-left: 20px;
+       } 
+h2 {  
+      font-size: 2em;
+         color:darkblue;
+         margin-left: 20px;
+         
+    }
+p{    
+    color:firebrick;
+          font-size: 2em;
+          margin-left: 20px;
+    }
+
+/*.btn{
+    display: block;
+    position: relative;
+    padding: 10px;
+    margin-bottom: 25px;
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    color: white;
+    text-transform: uppercase;
+    border: 1px solid #333;
+    cursor: pointer;
+    text-align: center;
+    transition: .5s;    
+    
+}  
+.btn:hover {
+      color:green;
+      background-color: darkturquoise;
+      transition: .5s;
+}  */ 
+video{
+    width: 250px;
+    height: 200px;
+    position: relative;
+    margin-left: 20px;
+}
+.audio {
+    width: 250px;
+    height: 20px;
+    margin-left: 20px;
+    margin-top: 0%;
+}
+.cor {width: 20px;
+    height: 20px;
+     color: darkred;
+     margin-left: 90px;
+
+     
+     
+
+}
+
+.lista{
+    width: 220px;
+    height: 230px;
+    background-color:cadetblue;
+   color:blue;
+   border: 5px solid;
+   position: relative;
+   padding-top: 20px;
+   margin-left: 20px;
+   padding-right:5px;
+   transition: .5s;
+   color: blue;
+   background-color: darkcyan;
+   
+   
+   
+   }
+.lista:hover{
+        color: red;
+        transition: .5; 
+        position: relative;
+
+}
+
+.li{
+    transition: .5s;
+    color: blue
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    max-width: max-content;
+    height: 150px;
+    background-color: black;
+    margin-left: 20px;
+    border: solid 1px;
+    overflow: auto;
+
+    
+    
+}
+.container:hover{
+    transition: .5s;
+    border-color:  black;s
+    position: relative;
+}
+
+
+
+
+.image1-box{
+    width: 150px;
+    height: 150px;
+    border-color: red;
+    transition: .5;
+    cursor: pointer;
+    margin-left: 1px;
+    
+    
+}
+.image2-box{
+    width: 150px;
+    height: 100%;
+    border-color: red;
+    transition: .5;
+    cursor: pointer;
+    margin-left: 1px;
+   
+    
+}
+.image3-box {
+    
+    width: 150px;
+    height: 100%;
+    border-color: red;
+    transition: .5;
+    cursor: pointer;
+    
+}
+.image4-box {
+    width: 150px;
+    height: 100%;
+    border-color: red;
+    transition: .5;
+    cursor: pointer;
+    margin-left: 2px;
+  
+    
+}
+.image5-box {
+    width: 150px;
+    height: 100%;
+    border-color: red;
+    transition: .5;
+    cursor: pointer;
+    margin-left: 2px;
+    
+}
+.image6-box {
+    width: 150px;   
+    height: 100%;
+    border-color: red;
+    transition: .5;
+    cursor: pointer;
+    margin-left: 2px;
+    
+    
+}
+
+
+.lorem {
+    width: 77vw;
+    height: fit-content;
+    display: flex;
+    border-color: red;
+    transition: .5;
+    cursor: pointer;
+    border: solid 2px;
+    margin-left: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    box-sizing: border-box;
+    
+}
+.lorem:hover {
+     border-color: red;
+     transition: .5s;
+     
+}
+.btn {
+    max-width: max-content;
+    height: 35px;
+    position: relative;
+    transition: .5;
+    background-color: red;
+    color: white;
+    font-size: .5;
+    border-color: blue;
+    
+}
+.btn:hover{
+        background-color: red;
+
+}
+.botao {
+    
+    height: 50px;
+    width: 90px;
+    position: relative;
+    transition: .5;
+    background-color:darkgreen;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px;
+    margin-left: 50px;
+    cursor: pointer;
+    
+    
+    
+    
+}
+.botao:hover {
+    color: white;
+    background:red;
+}
+.link{
+      color: darkred;
+      margin: 20px;
+      border-top: 5px;
+      
+
+      }
+
+
